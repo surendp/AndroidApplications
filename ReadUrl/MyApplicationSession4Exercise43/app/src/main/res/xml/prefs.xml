@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="first_preferencescreen">
+
+    <EditTextPreference
+        android:background="@android:color/holo_blue_bright"
+        android:defaultValue=" "
+        android:key="pref_key_default_url"
+        android:title="Save default URL" />
+
+</PreferenceScreen>
