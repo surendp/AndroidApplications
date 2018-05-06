@@ -3,7 +3,7 @@
 Mini projects done as assignments for Android Application development course
 
 
-ShowPresidents
+## ShowPresidents
 
 This application is done as an assignments for learning Room Architecture.
 
@@ -15,7 +15,7 @@ Functionalities of this app are listed below:
 
 
 
-ReadUrl
+## ReadUrl
 
 This application reads given Url and displays information about the web page content(For examlple: content type). 
 It uses preference Activity to save default Url. 
@@ -23,7 +23,7 @@ It uses preference Activity to save default Url.
 
 
 
-NumberPickerSession2
+## NumberPickerSession2
 
 This is a bmi calculator application which takes heigh and weigth of 
 a person using 2 number pickers. 
